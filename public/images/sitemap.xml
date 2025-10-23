@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://humanitehealthcare.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/gynecology</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/gastroenterology</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/cns</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Product Pages (slug must match your route URLs exactly) -->
+  <url>
+    <loc>https://humanitehealthcare.com/products/ovareas-gold</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/products/femfil</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/products/ovareas-m</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/products/ovareas-f</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/products/calixia-60k</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/products/folsea-12</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/products/calixia</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/products/pco-m5</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://humanitehealthcare.com/products/dydrosea</loc>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
