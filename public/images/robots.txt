@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://humanitehealthcare.com/sitemap.xml

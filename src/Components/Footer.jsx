@@ -28,7 +28,7 @@ Kandivali West, Mumbai, Maharashtra - 400067
           
         </p>
             <p className="mt-3">
-           <a href="https://humanitehealthcare.com/images/sitemap.xml" className="text-white">
+           <a href="https://humanitehealthcare.com/sitemap.xml" className="text-white">
            Sitemap
           </a>
           </p>
